@@ -12,7 +12,7 @@
 <br />
 ## My favorite tools and technologies ⚙️
 
-> Tools and technologies that I have studied with and am interested in
+> Tools and technologies that I have studied with and I am interested in
 
 <table>
   <tr>
