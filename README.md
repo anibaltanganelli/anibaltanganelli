@@ -48,7 +48,7 @@
 
 <br />
 
-### I have developed several projects in the administrative area and in different sectors, I am an entrepreneur and now I am looking for a career transition!
+### I have developed several projects in the area of ​​business administration in different sectors, I am also an entrepreneur in the gastronomic sector and now I am looking for a career transition!
 <div> 
 
   <br />
