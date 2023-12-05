@@ -34,8 +34,8 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="48" height="48" alt="dart" />
-      <br>VSCode
+        <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="48" height="48" alt="dart" />
+      <br>Power BI
   </tr>
  <tr>
  </tr>
