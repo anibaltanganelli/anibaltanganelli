@@ -29,9 +29,6 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" height="48" alt="dart" />
       <br>MySQL
     </td>
-     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" width="48" height="48" alt="dart" />
-      <br>AWS
     </td>
     <td align="center" width="96">
         <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="48" height="48" alt="dart" />
